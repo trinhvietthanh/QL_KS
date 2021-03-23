@@ -71,3 +71,6 @@ C:\Users\ADMIN\Desktop\BTL Lý thuyết hệ điều hành\New folder\QL_KS-mast
 C:\Users\ADMIN\Desktop\BTL Lý thuyết hệ điều hành\New folder\QL_KS-master\QL_KS-master\QL_KS\QL_KS\obj\Debug\QL_KS.csproj.CoreCompileInputs.cache
 C:\Users\ADMIN\Desktop\BTL Lý thuyết hệ điều hành\New folder\QL_KS-master\QL_KS-master\QL_KS\QL_KS\obj\Debug\QL_KS.exe
 C:\Users\ADMIN\Desktop\BTL Lý thuyết hệ điều hành\New folder\QL_KS-master\QL_KS-master\QL_KS\QL_KS\obj\Debug\QL_KS.pdb
+D:\TTN\QL_KS\QL_KS\obj\Debug\QL_KS.csprojAssemblyReference.cache
+D:\TTN\QL_KS\QL_KS\obj\Debug\QL_KS.exe
+D:\TTN\QL_KS\QL_KS\obj\Debug\QL_KS.pdb
