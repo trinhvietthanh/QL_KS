@@ -15,7 +15,7 @@ namespace QL_KS
         private void MoKetNoi()
         {
             if (KetNoiData.connect == null)
-                KetNoiData.connect = new SqlConnection(@"Data Source=DESKTOP-VES4POV\SQLEXPRESS;Initial Catalog=QL_KS;Integrated Security=True;");
+                KetNoiData.connect = new SqlConnection(@"Data Source=LAPTOP-A0V5QUUV\SQLEXPRESS;Initial Catalog=QL_KS;Integrated Security=True;");
             if (KetNoiData.connect.State != ConnectionState.Open)
                 KetNoiData.connect.Open();
         }
